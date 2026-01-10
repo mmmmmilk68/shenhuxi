@@ -3,26 +3,26 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>深呼锡4</title>
-    <link>https://NoaHLLEEE.github.io/my-podcast/</link>
-    <description>Ceylan个人Podcast4</description>
+    <link>https://mmmmmilk68.github.io/shenhuxi/</link>
+    <description>个人回答问题的 reaction 播客</description>
     <language>zh-cn</language>
-    <itunes:author>锡兰Ceylan</itunes:author>
-    <itunes:image href="https://NoaHLLEEE.github.io/my-podcast/cover.png"/>
-    <itunes:category text="Comedy & Lifestyle"/>
+    <itunes:author>锡兰ceylan</itunes:author>
+    <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/cover.png"/>
+    <itunes:category text="Society & Culture"/>
     <itunes:explicit>yes</itunes:explicit>
 
     <item>
       <title>1 新家</title>
       <description>1 新家</description>
-      <enclosure url="https://NoaHLLEEE.github.io/my-podcast/episodes/v.f1010%20(1).mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(1).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-1</guid>
       <itunes:explicit>yes</itunes:explicit>
     </item>
 
     <item>
-      <title>2 封城哈哈</title>
-      <description>2 封城哈哈</description>
-      <enclosure url="https://NoaHLLEEE.github.io/my-podcast/episodes/v.f1010%20(2).mp3" length="0" type="audio/mpeg"/>
+      <title>2 封城哈</title>
+      <description>2 封城哈</description>
+      <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(2).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-2</guid>
       <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -30,7 +30,7 @@
     <item>
       <title>3 在台湾开公司</title>
       <description>3 在台湾开公司</description>
-      <enclosure url="https://NoaHLLEEE.github.io/my-podcast/episodes/v.f1010%20(3).mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(3).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-3</guid>
       <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -38,7 +38,7 @@
     <item>
       <title>4 横草</title>
       <description>4 横草</description>
-      <enclosure url="https://NoaHLLEEE.github.io/my-podcast/episodes/v.f1010%20(4).mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(4).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-4</guid>
       <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -46,7 +46,7 @@
     <item>
       <title>5 新冠的彼岸</title>
       <description>5 新冠的彼岸</description>
-      <enclosure url="https://NoaHLLEEE.github.io/my-podcast/episodes/v.f1010%20(5).mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(5).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-5</guid>
       <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -54,7 +54,7 @@
     <item>
       <title>6 你觉得我好看吗</title>
       <description>6 你觉得我好看吗</description>
-      <enclosure url="https://NoaHLLEEE.github.io/my-podcast/episodes/v.f1010%20(6).mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(6).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-6</guid>
       <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -62,7 +62,7 @@
     <item>
       <title>7 考虑离开台湾</title>
       <description>7 考虑离开台湾</description>
-      <enclosure url="https://NoaHLLEEE.github.io/my-podcast/episodes/v.f1010%20(7).mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(7).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-7</guid>
       <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -70,7 +70,7 @@
     <item>
       <title>8 你是自由的</title>
       <description>8 你是自由的</description>
-      <enclosure url="https://NoaHLLEEE.github.io/my-podcast/episodes/v.f1010%20(8).mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(8).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-8</guid>
       <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>9 学习Naruto</title>
       <description>9 学习Naruto</description>
-      <enclosure url="https://NoaHLLEEE.github.io/my-podcast/episodes/v.f1010%20(9).mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(9).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-9</guid>
       <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -86,7 +86,7 @@
     <item>
       <title>10 跟不进则颓废</title>
       <description>10 跟不进则颓废</description>
-      <enclosure url="https://NoaHLLEEE.github.io/my-podcast/episodes/v.f1010%20(10).mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(10).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-10</guid>
       <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -94,7 +94,7 @@
     <item>
       <title>11 被朋友“PUA”</title>
       <description>11 被朋友“PUA”</description>
-      <enclosure url="https://NoaHLLEEE.github.io/my-podcast/episodes/v.f1010%20(11).mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(11).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-11</guid>
       <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -102,7 +102,7 @@
     <item>
       <title>12 底层SB</title>
       <description>12 底层SB</description>
-      <enclosure url="https://NoaHLLEEE.github.io/my-podcast/episodes/v.f1010%20(12).mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(12).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-12</guid>
       <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -110,7 +110,7 @@
     <item>
       <title>13 ZZZZZZZZZZ</title>
       <description>13 ZZZZZZZZZZ</description>
-      <enclosure url="https://NoaHLLEEE.github.io/my-podcast/episodes/v.f1010%20(13).mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(13).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-13</guid>
       <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -118,7 +118,7 @@
     <item>
       <title>14 《台湾媒体》后续</title>
       <description>14 《台湾媒体》后续</description>
-      <enclosure url="https://NoaHLLEEE.github.io/my-podcast/episodes/v.f1010%20(14).mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(14).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-14</guid>
       <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -126,7 +126,7 @@
     <item>
       <title>15 你脑袋觉得出图像吗？</title>
       <description>15 你脑袋觉得出图像吗？</description>
-      <enclosure url="https://NoaHLLEEE.github.io/my-podcast/episodes/v.f1010%20(15).mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(15).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-15</guid>
       <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -134,7 +134,7 @@
     <item>
       <title>16 脑洞</title>
       <description>16 脑洞</description>
-      <enclosure url="https://NoaHLLEEE.github.io/my-podcast/episodes/v.f1010%20(16).mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(16).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-16</guid>
       <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -142,7 +142,7 @@
     <item>
       <title>17 文人</title>
       <description>17 文人</description>
-      <enclosure url="https://NoaHLLEEE.github.io/my-podcast/episodes/v.f1010%20(17).mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(17).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-17</guid>
       <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -150,7 +150,7 @@
     <item>
       <title>18 小留感情问题</title>
       <description>18 小留感情问题</description>
-      <enclosure url="https://NoaHLLEEE.github.io/my-podcast/episodes/v.f1010%20(18).mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(18).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-18</guid>
       <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -158,7 +158,7 @@
     <item>
       <title>19 找到东京住处</title>
       <description>19 找到东京住处</description>
-      <enclosure url="https://NoaHLLEEE.github.io/my-podcast/episodes/v.f1010%20(19).mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(19).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-19</guid>
       <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -166,7 +166,7 @@
     <item>
       <title>20 离开台湾</title>
       <description>20 离开台湾</description>
-      <enclosure url="https://NoaHLLEEE.github.io/my-podcast/episodes/v.f1010%20(20).mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(20).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-20</guid>
       <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -174,7 +174,7 @@
     <item>
       <title>21 别做梦</title>
       <description>21 别做梦</description>
-      <enclosure url="https://NoaHLLEEE.github.io/my-podcast/episodes/v.f1010%20(21).mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(21).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-21</guid>
       <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -182,7 +182,7 @@
     <item>
       <title>22 东京生活</title>
       <description>22 东京生活</description>
-      <enclosure url="https://NoaHLLEEE.github.io/my-podcast/episodes/v.f1010%20(22).mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(22).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-22</guid>
       <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -190,7 +190,7 @@
     <item>
       <title>23 平安夜</title>
       <description>23 平安夜</description>
-      <enclosure url="https://NoaHLLEEE.github.io/my-podcast/episodes/v.f1010%20(23).mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(23).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-23</guid>
       <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -198,7 +198,7 @@
     <item>
       <title>24 支持烟圈</title>
       <description>24 支持烟圈</description>
-      <enclosure url="https://NoaHLLEEE.github.io/my-podcast/episodes/v.f1010%20(24).mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(24).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-24</guid>
       <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -206,7 +206,7 @@
     <item>
       <title>25 再见2023</title>
       <description>25 再见2023</description>
-      <enclosure url="https://NoaHLLEEE.github.io/my-podcast/episodes/v.f1010%20(25).mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(25).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-25</guid>
       <itunes:explicit>yes</itunes:explicit>
     </item>
