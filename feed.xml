@@ -4,11 +4,11 @@
   <channel>
     <title>深呼锡4</title>
     <link>https://mmmmmilk68.github.io/shenhuxi/</link>
-    <description>个人回答问题的reaction播客</description>
+    <description>个人回答问题的 reaction 播客</description>
     <language>zh-cn</language>
     <itunes:author>锡兰ceylan</itunes:author>
     <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/cover.jpg"/>
-    <itunes:category text="喜剧"/>
+    <itunes:category text="SocietyCulture"/>
     <itunes:explicit>yes</itunes:explicit>
 
     <item>
@@ -17,7 +17,7 @@
       <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(1).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-1</guid>
       <pubDate>Sat, 10 Jun 2023 12:00:00 +0800</pubDate>
-      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/447d91dd60e3c18d819f0fd926bd807_w1000_h1000_s528.jpg"/>
+      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/1.jpg"/>
       <itunes:explicit>yes</itunes:explicit>
     </item>
 
@@ -27,7 +27,7 @@
       <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(2).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-2</guid>
       <pubDate>Sat, 17 Jun 2023 12:00:00 +0800</pubDate>
-      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/c5dc0d1a185fba94a6e3619aac5905bb_w1000_h1000_s644.jpg"/>
+      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/2.jpg"/>
       <itunes:explicit>yes</itunes:explicit>
     </item>
 
@@ -37,7 +37,7 @@
       <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(3).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-3</guid>
       <pubDate>Sat, 24 Jun 2023 12:00:00 +0800</pubDate>
-      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/347d22f82c8809cdbdd99968d4f5aad6_w1000_h1000_s397.jpeg"/>
+      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/3.jpeg"/>
       <itunes:explicit>yes</itunes:explicit>
     </item>
 
@@ -47,7 +47,7 @@
       <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(4).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-4</guid>
       <pubDate>Sat, 01 Jul 2023 12:00:00 +0800</pubDate>
-      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/e87e4274969cb15c96320baab54a13c0_w1000_h1000_s404.jpeg"/>
+      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/4.jpeg"/>
       <itunes:explicit>yes</itunes:explicit>
     </item>
 
@@ -57,7 +57,7 @@
       <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(5).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-5</guid>
       <pubDate>Sat, 08 Jul 2023 12:00:00 +0800</pubDate>
-      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/3883ed7569f35ce8c736e2bbbd528569_w1000_h1000_s250.jpeg"/>
+      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/5.jpeg"/>
       <itunes:explicit>yes</itunes:explicit>
     </item>
 
@@ -67,7 +67,7 @@
       <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(6).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-6</guid>
       <pubDate>Sat, 15 Jul 2023 12:00:00 +0800</pubDate>
-      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/92bb4dab218e8167e03fb9bd5e122b01_w1000_h1000_s224.jpeg"/>
+      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/6.jpeg"/>
       <itunes:explicit>yes</itunes:explicit>
     </item>
 
@@ -77,7 +77,7 @@
       <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(7).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-7</guid>
       <pubDate>Sat, 22 Jul 2023 12:00:00 +0800</pubDate>
-      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/412bb3fcffcd879eaca944727aa7dca6_w1000_h1000_s384.jpeg"/>
+      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/7.jpeg"/>
       <itunes:explicit>yes</itunes:explicit>
     </item>
 
@@ -87,7 +87,7 @@
       <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(8).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-8</guid>
       <pubDate>Sat, 29 Jul 2023 12:00:00 +0800</pubDate>
-      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/c6a647b5ff01c69bbf449a43320b492c_w1000_h1000_s575.jpeg"/>
+      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/8.jpeg"/>
       <itunes:explicit>yes</itunes:explicit>
     </item>
 
@@ -97,7 +97,7 @@
       <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(9).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-9</guid>
       <pubDate>Sat, 05 Aug 2023 12:00:00 +0800</pubDate>
-      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/89ae4a5aafc3cd648c3f9690d5c1c183_w1000_h1000_s436.jpeg"/>
+      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/9.jpeg"/>
       <itunes:explicit>yes</itunes:explicit>
     </item>
 
@@ -107,7 +107,7 @@
       <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(10).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-10</guid>
       <pubDate>Sat, 12 Aug 2023 12:00:00 +0800</pubDate>
-      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/dcb4db4ad0b2fcf4fead38ab294dc94e_w1000_h1000_s627.jpeg"/>
+      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/10.jpeg"/>
       <itunes:explicit>yes</itunes:explicit>
     </item>
 
@@ -117,7 +117,7 @@
       <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(11).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-11</guid>
       <pubDate>Sat, 19 Aug 2023 12:00:00 +0800</pubDate>
-      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/a604bc63515a671144928e4bd14f3ccf_w1000_h1000_s509.jpeg"/>
+      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/11.jpeg"/>
       <itunes:explicit>yes</itunes:explicit>
     </item>
 
@@ -127,7 +127,7 @@
       <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(12).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-12</guid>
       <pubDate>Sat, 26 Aug 2023 12:00:00 +0800</pubDate>
-      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/8a54ee45da41c0b616c7aca13a2705d0_w1000_h1000_s643.jpeg"/>
+      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/12.jpeg"/>
       <itunes:explicit>yes</itunes:explicit>
     </item>
 
@@ -137,7 +137,7 @@
       <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(13).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-13</guid>
       <pubDate>Sat, 02 Sep 2023 12:00:00 +0800</pubDate>
-      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/0354d4bca150eb01077dd83b933c83a7_w1000_h1000_s281.jpeg"/>
+      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/13.jpeg"/>
       <itunes:explicit>yes</itunes:explicit>
     </item>
 
@@ -147,7 +147,7 @@
       <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(14).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-14</guid>
       <pubDate>Sat, 09 Sep 2023 12:00:00 +0800</pubDate>
-      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/e02488abb597a6db3b262d0a36f4fe1b_w1000_h1000_s304.jpeg"/>
+      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/14.jpeg"/>
       <itunes:explicit>yes</itunes:explicit>
     </item>
 
@@ -157,7 +157,7 @@
       <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(15).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-15</guid>
       <pubDate>Sat, 16 Sep 2023 12:00:00 +0800</pubDate>
-      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/40405de8dbcf8b1c6cc48041754556d2_w1000_h1000_s432.jpeg"/>
+      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/15.jpeg"/>
       <itunes:explicit>yes</itunes:explicit>
     </item>
 
@@ -167,7 +167,7 @@
       <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(16).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-16</guid>
       <pubDate>Sat, 23 Sep 2023 12:00:00 +0800</pubDate>
-      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/5243959075ce4a247ed7964b2304836e_w1000_h1000_s584.jpeg"/>
+      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/16.jpeg"/>
       <itunes:explicit>yes</itunes:explicit>
     </item>
 
@@ -177,7 +177,7 @@
       <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(17).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-17</guid>
       <pubDate>Sat, 30 Sep 2023 12:00:00 +0800</pubDate>
-      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/cc60944e2d4fe3de5c7be946ca9a32b1_w1000_h1000_s406.jpeg"/>
+      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/17.jpeg"/>
       <itunes:explicit>yes</itunes:explicit>
     </item>
 
@@ -187,7 +187,7 @@
       <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(18).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-18</guid>
       <pubDate>Sat, 21 Oct 2023 12:00:00 +0800</pubDate>
-      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/4b86d04f7cd39da9ad0cf23bc3729be0_w1000_h1000_s307.jpeg"/>
+      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/18.jpeg"/>
       <itunes:explicit>yes</itunes:explicit>
     </item>
 
@@ -197,7 +197,7 @@
       <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(19).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-19</guid>
       <pubDate>Sat, 28 Oct 2023 12:00:00 +0800</pubDate>
-      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/cab010775f293f99d353f4fca37eaee2_w1000_h1000_s470.jpeg"/>
+      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/19.jpeg"/>
       <itunes:explicit>yes</itunes:explicit>
     </item>
 
@@ -207,7 +207,7 @@
       <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(20).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-20</guid>
       <pubDate>Sat, 04 Nov 2023 12:00:00 +0800</pubDate>
-      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/d3661db3e849f45087f82989a6e88c02_w1000_h1000_s401.jpeg"/>
+      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/20.jpeg"/>
       <itunes:explicit>yes</itunes:explicit>
     </item>
 
@@ -217,7 +217,7 @@
       <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(21).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-21</guid>
       <pubDate>Sat, 11 Nov 2023 12:00:00 +0800</pubDate>
-      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/9bbfa1a0320ed9e298d744a8317327ac_w1000_h1000_s521.jpeg"/>
+      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/21.jpeg"/>
       <itunes:explicit>yes</itunes:explicit>
     </item>
 
@@ -227,7 +227,7 @@
       <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(22).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-22</guid>
       <pubDate>Sat, 02 Dec 2023 12:00:00 +0800</pubDate>
-      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/21f982383078f5463830690d5c1c183_w1000_h1000_s855.jpeg"/>
+      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/22.jpeg"/>
       <itunes:explicit>yes</itunes:explicit>
     </item>
 
@@ -237,17 +237,17 @@
       <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(23).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-23</guid>
       <pubDate>Sun, 24 Dec 2023 12:00:00 +0800</pubDate>
-      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/c3df7a375169ae71db2264f17a65984c_w1000_h1000_s695.jpeg"/>
+      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/23.jpeg"/>
       <itunes:explicit>yes</itunes:explicit>
     </item>
 
     <item>
-      <title>24 支持婚姻</title>
-      <description>24 支持婚姻</description>
+      <title>24 支持烟圈</title>
+      <description>24 支持烟圈</description>
       <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(24).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-24</guid>
       <pubDate>Sat, 30 Dec 2023 12:00:00 +0800</pubDate>
-      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/5a7bb5bb213e81597f19f0fd926bd807_w1000_h1000_s939.jpeg"/>
+      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/24.jpeg"/>
       <itunes:explicit>yes</itunes:explicit>
     </item>
 
@@ -257,7 +257,7 @@
       <enclosure url="https://mmmmmilk68.github.io/shenhuxi/episodes/v.f1010%20(25).mp3" length="0" type="audio/mpeg"/>
       <guid>v.f1010-25</guid>
       <pubDate>Sun, 31 Dec 2023 12:00:00 +0800</pubDate>
-      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/bf2a6c52f7471dc00294b18fcb2144aa_w1000_h1000_s782.jpeg"/>
+      <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/images/25.jpeg"/>
       <itunes:explicit>yes</itunes:explicit>
     </item>
 
