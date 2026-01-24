@@ -4,12 +4,18 @@
   <channel>
     <title>深呼锡4</title>
     <link>https://mmmmmilk68.github.io/shenhuxi/</link>
-    <description>个人回答问题的 reaction 播客</description>
-    <itunes:summary>个人回答问题的 reaction 播客</itunes:summary>
+    
+    <description>个人回答问题的 reaction 播客。2022年開始的新的一季。</description>
+    <itunes:summary>个人回答问题的 reaction 播客。2022年開始的新的一季。</itunes:summary>
+    
     <language>zh-cn</language>
+    
+    <copyright>&#xA9; Ceylan Le Compte @Github @ALLTHEFANS</copyright>
+    
     <itunes:author>锡兰ceylan</itunes:author>
     <itunes:image href="https://mmmmmilk68.github.io/shenhuxi/cover.jpg"/>
     <itunes:category text="Society &amp; Culture"/>
+    
     <itunes:explicit>yes</itunes:explicit>
 
     <item>
